@@ -8,7 +8,9 @@ import {
   Code,
   Grid,
   theme,
+  Icon,
 } from '@chakra-ui/react';
+
 import { ColorModeSwitcher } from './ColorModeSwitcher';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
