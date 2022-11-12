@@ -19,8 +19,62 @@ import Match from './components/Match';
 import Display from './components/Projects';
 import Signin from './components/Signin';
 
+const projectlist = [
+
+  {
+      title: "Period Movement",
+
+      role: "Web Development",
+
+      description: "Helping women gain access to menstruation products",
+
+      skills: "React.js",
+
+      time: "1-2 weeks",
+
+
+  },
+
+  {
+      title: "Period Project",
+       
+      role: "Data analyst",
+
+      description: "Analyzing data about marginalized groups of people",
+
+      skills: "Python, SQl",
+
+      time: "1 month"
+
+
+  } ]
+
+
+
+
+
+
+
+
+
+
 
 function App() {
+
+
+  const cards = projectlist.map(item => {
+    return (
+        <Display
+            title={item.title}
+            role={item.role}
+    
+            description={item.description}
+            skills={item.skills}
+         
+            time = {item.time}
+        />
+    )
+}) 
   return (
     <ChakraProvider>  
 
