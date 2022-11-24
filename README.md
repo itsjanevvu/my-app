@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  ⭐️**Problem**
 
-There has bene an increasing number of female students stuyding humanities who want to transition into the tech industry.
+There has been an increasing number of female students stuyding humanities who want to transition into the tech industry.
 They cannot drop out of their program and cannot afford to spend over 1000 dollars on a coding bootcamp. Morever, they need to learn to develop skills for their resume.
 
 👋🏻**Our Solution**
