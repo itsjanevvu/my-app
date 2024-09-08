@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
  ⭐️**Problem**
 
 There has been an increasing number of female students stuyding humanities who want to transition into the tech industry.
